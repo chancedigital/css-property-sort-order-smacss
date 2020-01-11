@@ -1,0 +1,36 @@
+{
+  "name": "@chancedigital/css-property-sort-order-smacss",
+  "version": "1.0.0",
+  "description": "CSS property sort order based on the SMACSS methodogy.",
+  "author": {
+    "name": "Chance Strickland",
+    "email": "hi@chancedigital.io",
+    "url": "https://chancedigital.io",
+    "role": "developer"
+  },
+  "license": "GPL-2.0-or-later",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chancedigital/css-property-sort-order-smacss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chancedigital/css-property-sort-order-smacss/issues"
+  },
+  "keywords": [
+    "CSS",
+    "SMACSS",
+    "Scalable and Modular Architecture for CSS",
+    "CSS Property Sort Order"
+  ],
+  "devDependencies": {
+    "prettier": "1.19.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
